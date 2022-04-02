@@ -1,0 +1,6 @@
+current todo list 
+
+fawaz todo
+[0]-learn go                   -not done
+[1]-learn python               -not done
+[2]-added new one             -not done
